@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-unit-test",
+  "version": "1.0.0",
+  "description": ",Belajar Nodejs Unit Testing",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "farhan",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.25.4",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "winston": "^3.15.0"
+  }
+}
